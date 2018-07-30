@@ -9,6 +9,7 @@ public class HelloWorld {
 
     public static void something(){
         System.out.println("Something chtonibud'");
+        System.out.println("Something with new words");
         System.out.println("Hello World on other branch");
     }
 }
