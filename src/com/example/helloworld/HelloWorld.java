@@ -7,7 +7,7 @@ public class HelloWorld {
         fun2();
     }
 
-    public static void fun2(){
+    private static void fun2(){
         System.out.println("text 2");
     }
 }
