@@ -4,11 +4,10 @@ public class HelloWorld {
 
     public static void main(String[] args){
         System.out.println("Hello World");
-        something();
+        fun2();
     }
 
-    public static void something(){
-        System.out.println("Something with new words");
-        System.out.println("Hello World on other branch");
+    public static void fun2(){
+        System.out.println("text 2");
     }
 }
